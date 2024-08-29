@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name="niloperataor",
+    name="niloperator",
     version="0.0.0",
     author="NIloua",
     author_email="niloufarhykh@yahoo.com",
