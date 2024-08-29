@@ -17,5 +17,5 @@ jobs:
         with:
           python-version: ${{ matrix.python-version }}
       - run: |
-        pip install .
-        pytest tests
+          pip install .
+          pytest tests
